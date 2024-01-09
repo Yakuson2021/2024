@@ -243,6 +243,10 @@ section {
     background: #0056b3;
 }
 
+footer p {
+    padding: 20px;
+}
+
 }
 
 /*================
@@ -429,5 +433,8 @@ section {
     transition: 0.3s;
 }
 
+footer p {
+    padding: 20px;
+}
 
 }
